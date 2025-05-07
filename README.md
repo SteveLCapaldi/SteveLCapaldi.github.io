@@ -1,3 +1,6 @@
+Fast Link to my homepage:https://stevelcapaldi.github.io/  
+Many thanks to the contributor to this homepage template!
+
 ![Github Forks](https://img.shields.io/github/forks/Yixin0313/personal-homepage-template?style=flat)
 ![Github Stars](https://img.shields.io/github/stars/Yixin0313/personal-homepage-template?style=flat)
 ![License](https://img.shields.io/github/license/Yixin0313/personal-homepage-template)
