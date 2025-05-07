@@ -3,18 +3,14 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>1097577123@qq.com</code>  
+<code>stevelcapald1@gmail.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Electronic Science%Technology of China(UESTC)** BEng of Information and Electronic Engineering
+• GPA: 3.81/4
+• Rank: 18%
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Computer Architecture, CPU design, ASIC Design.
