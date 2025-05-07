@@ -1,6 +1,7 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![My GitHub](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/SteveLCapaldi?tab=repositories)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a BEng degree in Information& Electronic Engineering at the Glasgow College, University of Electronic S&T of China, Chengdu.
+Looking forward to persue a Master Degree in Integrated Circuits and Systems or Computer Science.
 
 #### Email  
 <code>1097577123@qq.com</code>  
