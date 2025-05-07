@@ -1,7 +1,7 @@
 ### **集成电路创新创业大赛**  
 **2025 til now**  
 
-Participated in the competition to design a CPU based on RV32I ISA.
+Participated in the competition to design a CPU based on RV32I ISA.  
 The CPU includes 5 stage pipeline, single issue, in order execution.
 
 #### Key Contributions:  
