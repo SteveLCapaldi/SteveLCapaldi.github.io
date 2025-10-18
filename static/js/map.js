@@ -59,12 +59,13 @@ async function initWorldMap() {
   chart.setOption(option);
 
   // ======= 总访问次数计数 =======
-  const counterURL = 'https://stevelcapaldi.github.io/';
+  const counterURL = 'https://api.countapi.xyz/hit/stevelcapaldi.github.io/visits';
   try {
     const res = await fetch(counterURL);
     const data = await res.json();
     document.getElementById('visit-count').textContent = data.value;
   } catch (err) {
+    console.error('Failed to load visit count:', err);
     document.getElementById('visit-count').textContent = 'Error';
   }
 }
