@@ -1,7 +1,7 @@
 [![SteveLCapaldi](https://img.shields.io/badge/SteveLCapaldi-github-blue?logo=github)](https://github.com/SteveLCapaldi?tab=repositories)
 
 I'm currently pursuing a BEng degree in Information&Electronic Engineering at the Glasgow College, University of Electronic S&T of China, Chengdu.  
-Looking forward to persue a Master Degree (26fall) in Integrated Circuits and Systems or Computer Science.  
+I will pursue my master degree in **School of Infomation & Communication Engineering, UESTC**, focusing on **fault tolerant** VLSI design.  
 You can find my CV [here](../cv.pdf)
 
 
@@ -12,8 +12,8 @@ You can find my CV [here](../cv.pdf)
 #### Education  
 **University of Electronic Science&Technology of China(UESTC)** BEng of Information and Electronic Engineering  2022-2026(expected)
 • GPA: 3.81/4  
-• Rank: 18%
+• Rank: 15%
 
 
 #### Research Interests  
-Computer Architecture, CPU design, ASIC Design.
+VLSI, ASIC Design , CPU Design, Computer Architecture.
